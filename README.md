@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aliabb01&label=Profile%20views&color=0e75b6&style=flat" alt="aliabb01" /> </p>
 
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy" style="display: flex; flex: 1; justify-content: center;"><img align="center" style="display: flex; justify-content: space-between" src="https://github-profile-trophy.vercel.app/?username=aliabb01" alt="aliabb01" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" style="display: flex; justify-content: space-between" src="https://github-profile-trophy.vercel.app/?username=aliabb01" alt="aliabb01" /></a> </p>
 
 - 🔭 I’m currently working on [Finance Manager (React Native)](https://github.com/aliabb01/finance-manager-rn)
 
@@ -21,8 +21,10 @@
 
 
 <br>
+  
+ <h3 align="left">Statistics:</h3>
 
-<div align="center">
+<div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliabb01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aliabb01" /></p>
 
