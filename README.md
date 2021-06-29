@@ -19,13 +19,13 @@
 
 <div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliabb01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aliabb01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliabb01&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aliabb01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabb01&show_icons=true&locale=en&theme=tokyonight" alt="aliabb01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabb01&show_icons=true&locale=en&theme=algolia" alt="aliabb01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliabb01&theme=tokyonight" alt="aliabb01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliabb01&theme=algolia" alt="aliabb01" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aliabb01&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ali Abbasov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aliabb01&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
