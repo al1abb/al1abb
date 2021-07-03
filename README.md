@@ -27,8 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliabb01&theme=algolia" alt="aliabb01" /></p>
 
-[![Ali Abbasov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aliabb01&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 
