@@ -70,6 +70,8 @@
 <details>
 
 <summary>Github stats:</summary>
+  
+<br>
 
 <div align="left">
 
