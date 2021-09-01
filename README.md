@@ -3,8 +3,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aliabb01&label=Profile%20views&color=1778F2&style=flat" alt="aliabb01" /> </p>
 
-- 🔭 I’m currently working on [**Finance Manager (React Native)**](https://github.com/aliabb01/finance-manager-rn)
-
 - 📫 How to reach me **ali3abbasov@gmail.com**
 
 <details>
