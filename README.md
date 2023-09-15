@@ -75,7 +75,7 @@
 
 <div align="left">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliabb01&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aliabb01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliabb01&hide=php,blade,html,dart,css&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aliabb01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabb01&show_icons=true&locale=en&theme=algolia" alt="aliabb01" /></p>
 
