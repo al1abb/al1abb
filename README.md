@@ -1,93 +1,62 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate full stack web developer from Azerbaijan</h3>
+## Hi there, I'm Ali Abbasov 👋 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aliabb01&label=Profile%20views&color=1778F2&style=flat" alt="aliabb01" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=aliabb01&label=Profile%20views&color=1778F2&style=flat) 
 
-- 📫 How to reach me **ali3abbasov@gmail.com**
+<!-- [![Twitter](https://img.shields.io/badge/Twitter/X-%40YourHandle-000000?style=flat&logo=X&logoColor=white)](https://twitter.com/your-handle) -->
 
-<details>
-
-<summary align="center">Click to read more</summary>
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://stackoverflow.com/users/12312519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12312519" height="30" width="40" /></a>
-</p>
-
-<h4 align="left">Languages, Frameworks and Tools:</h4>
-
-<p>
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jquery/jquery-plain-wordmark.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original-wordmark.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/laravel/laravel-plain-wordmark.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/heroku/heroku-original-wordmark.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original-wordmark.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original-wordmark.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" >
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/illustrator/illustrator-plain.svg" >
-  
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" >
+[![Email](https://img.shields.io/badge/Email-ali3abbasov%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:ali3abbasov@gmail.com) [![StackOverflow](https://img.shields.io/badge/StackOverflow-Ali_Abbasov-F47F24?style=flat&logo=stackoverflow)]()
 
 
-</p>
+I'm a passionate Full Stack Web Developer based in Azerbaijan, Baku. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
+
+
+### 🔧 Technologies & Tools
+
+#### Languages
+Active: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+Secondary: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+#### Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
+#### Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+#### Tools
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+####  Would like to learn
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/) [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 
 
-<details>
+### 🌱 I'm Currently Learning
 
-<summary>Github stats:</summary>
-  
-<br>
+- Next.js
+- Typescript
 
-<div align="left">
+### 🔭 Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliabb01&hide=php,blade,html,dart,css&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aliabb01" /></p>
+- [Invoify](https://github.com/aliabb01/invoify): An invoice generation web app built with Next.js, Typescript
+- [EvAl](https://github.com/aliabb01/EvAl): A real estate advertisement platform built with Laravel and Vue.js
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabb01&show_icons=true&locale=en&theme=algolia" alt="aliabb01" /></p>
+### 📖 Latest Blog Posts
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliabb01&theme=algolia" alt="aliabb01" /></p>
+_Coming Soon_
 
-</div>
+### 🤝 Let's Connect
 
-</details>
+If you share similar interests or want to collaborate on a project, feel free to reach out! 
 
+Thanks for visiting my profile! 😄
 
+### My Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aliabb01&hide=php,blade,html,dart,css&show_icons=true&locale=en&layout=compact&theme=algolia)
 
-</details>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabb01&show_icons=true&locale=en&theme=algolia)
 
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliabb01&theme=algolia)
