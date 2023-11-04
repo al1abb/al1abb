@@ -36,13 +36,12 @@ Secondary: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=
 
 ### 🌱 I'm Currently Learning
 
-- Next.js
-- Typescript
+Next.js and Typescript
 
 ### 🔭 Projects
 
-- [Invoify](https://github.com/aliabb01/invoify): An invoice generation web app built with Next.js, Typescript
-- [EvAl](https://github.com/aliabb01/EvAl): A real estate advertisement platform built with Laravel and Vue.js
+- [Invoify](https://github.com/aliabb01/invoify) An invoice generation web app built with Next.js, Typescript
+- [EvAl](https://github.com/aliabb01/EvAl) A real estate advertisement platform built with Laravel and Vue.js
 
 ### 📖 Latest Blog Posts
 
