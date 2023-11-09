@@ -27,7 +27,7 @@ If you share similar interests or want to collaborate on a project, feel free to
 Thanks for visiting my profile! 😄
 
 ### My Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aliabb01&hide=php,blade,html,css&locale=en&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aliabb01&exclude_repo=RRW,restaurant-management-system,tweety&hide=html,css,blade&locale=en&layout=compact&theme=github_dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabb01&show_icons=true&locale=en&theme=github_dark)
 
