@@ -2,11 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aliabb01&label=Profile%20views&color=1778F2&style=flat) 
 
-<!-- [![Twitter](https://img.shields.io/badge/Twitter/X-%40YourHandle-000000?style=flat&logo=X&logoColor=white)](https://twitter.com/your-handle) -->
 
-##### Reach me here:
+#### Reach me here:
 
-[![Email](https://img.shields.io/badge/Email-ali3abbasov%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:ali3abbasov@gmail.com) [![StackOverflow](https://img.shields.io/badge/StackOverflow-Ali_Abbasov-F47F24?style=flat&logo=stackoverflow)]()
+[![Email](https://img.shields.io/badge/Email-ali3abbasov%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ali3abbasov@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter/X-%40ali3abb-000000?style=flat&logo=X&logoColor=white)](https://twitter.com/ali3abb)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Ali_Abbasov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abbasov/)
 
 
 I'm a passionate Full Stack Web Developer based in Azerbaijan, Baku. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
