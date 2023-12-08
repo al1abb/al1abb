@@ -18,7 +18,8 @@ I'm a passionate Full Stack Web Developer based in Azerbaijan, Baku. I love codi
 
 ### 📖 Latest Blog Posts
 
-_Coming Soon_
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 🤝 Let's Connect
 
