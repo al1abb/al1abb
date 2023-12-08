@@ -19,6 +19,7 @@ I'm a passionate Full Stack Web Developer based in Azerbaijan, Baku. I love codi
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Build a Sortable List with Drag Handle in React Hook Form using Dnd-kit](https://aliabb.vercel.app/blog/reorder-a-list-using-drag-and-drop)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🤝 Let's Connect
