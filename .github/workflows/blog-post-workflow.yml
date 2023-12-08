@@ -18,3 +18,4 @@ jobs:
               with:
                   feed_list: "https://aliabb.vercel.app/rss.xml"
                   max_post_count: 5
+                  commit_message: "Updated profile readme with the latest blog posts"
