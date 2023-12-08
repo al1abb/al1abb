@@ -16,6 +16,6 @@ jobs:
             - name: Pull in portfolio website posts
               uses: gautamkrishnar/blog-post-workflow@v1
               with:
-                  feed_list: "https://aliabb.vercel.app/rss.xml"
+                  feed_list: "https://aliabb.vercel.app/blog/rss.xml"
                   max_post_count: 5
                   commit_message: "Updated profile readme with the latest blog posts"
