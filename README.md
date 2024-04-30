@@ -5,7 +5,7 @@
 
 #### Reach me here:
 
-[![Email](https://img.shields.io/badge/Email-ali3abbasov%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ali3abbasov@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter/X-%40ali3abb-000000?style=flat&logo=X&logoColor=white)](https://twitter.com/ali3abb)
+[![Twitter](https://img.shields.io/badge/Twitter/X-%40ali3abb-000000?style=flat&logo=X&logoColor=white)](https://twitter.com/ali3abb)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Ali_Abbasov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abbasov/)
 
 
