@@ -12,8 +12,8 @@ I'm a passionate Full Stack Web Developer based in Azerbaijan, Baku. I love codi
 
 ### 🔭 Projects
 
-- [Invoify](https://github.com/aliabb01/invoify) — An invoice generation web app built with Next.js, Typescript
-- [EvAl](https://github.com/aliabb01/EvAl) — A real estate advertisement platform built with Laravel and Vue.js
+- [Invoify](https://github.com/al1abb/invoify) — An invoice generation web app built with Next.js, Typescript
+- [EvAl](https://github.com/al1abb/EvAl) — A real estate advertisement platform built with Laravel and Vue.js
 
 ### 📖 Latest Blog Posts
 
@@ -28,8 +28,8 @@ If you share similar interests or want to collaborate on a project, feel free to
 Thanks for visiting my profile! 😄
 
 ### My Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aliabb01&exclude_repo=RRW,restaurant-management-system,tweety&hide=html,css,blade&locale=en&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=al1abb&exclude_repo=RRW,restaurant-management-system,tweety&hide=html,css,blade&locale=en&layout=compact&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabb01&show_icons=true&locale=en&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=al1abb&show_icons=true&locale=en&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliabb01&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=al1abb&theme=github_dark)
