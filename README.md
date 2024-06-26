@@ -1,10 +1,10 @@
 ## Hi there, I'm Ali Abbasov 👋 
 
-![Profile Views](https://komarev.com/ghpvc/?username=aliabb01&label=Profile%20views&color=1778F2&style=flat) 
+![Profile Views](https://komarev.com/ghpvc/?username=al1abb&label=Profile%20views&color=1778F2&style=flat) 
 
 #### Reach me here:
 
-[![Twitter](https://img.shields.io/badge/Twitter/X-%40ali3abb-000000?style=flat&logo=X&logoColor=white)](https://twitter.com/ali3abb)
+[![Twitter](https://img.shields.io/badge/Twitter/X-%40al1abb-000000?style=flat&logo=X&logoColor=white)](https://twitter.com/al1abb)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Ali_Abbasov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abbasov/)
 
 
