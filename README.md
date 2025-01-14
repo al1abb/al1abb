@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Ali_Abbasov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abbasov/)
 
 
-I'm a Full Stack Web Developer and a Cybersecurity Enthusiast based in Azerbaijan, Baku. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
+I'm a Cybersecurity Enthusiast and a Full Stack Web Developer based in Baku, Azerbaijan. I love coding, open source, and technology. Here you'll find some of my projects, contributions, and interests. Feel free to explore!
 
 ### 🔭 Projects
 
@@ -24,10 +24,8 @@ Coming soon...
 - [How To Build a Sortable List with Drag Handle in React Hook Form using Dnd-kit](https://aliabb.vercel.app/blog/reorder-a-list-using-drag-and-drop)
 -->
 
-Thanks for visiting my profile! 😄
-
 ### My Stats
-![tryhackme stats](https://raw.githubusercontent.com/al1abb/al1abb/main/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/al1abb.png" alt="Your Image Badge" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=al1abb&exclude_repo=RRW,restaurant-management-system,tweety&hide=html,css,blade&locale=en&layout=compact&theme=github_dark)
 
